@@ -36,7 +36,7 @@ Over time, it became one of Japan’s favorite board games.
 
 ## 📸 Screenshots
 
-| ![Screenshot 1](anh1.png) | ![Screenshot 2](anh2.png) | ![Screenshot 3](anh3.png) |
+| ![Screenshot 1](anh1.png) | ![Screenshot 2](anh4.png) | ![Screenshot 3](anh3.png) |
 |:--------------------------:|:--------------------------:|:--------------------------:|
 | Game Board                | AI Match Mode             | Victory Screen             |
 
