@@ -52,7 +52,10 @@ Challenge yourself anytime, anywhere — no connection required!
 ## 🚀 Coming Soon
 
 🕒 *Available soon on the App Store!*  
-_(App Store link will be added here once approved)_
+While waiting for release, you can **visit my developer page on App Store:**  
+👉 [https://apps.apple.com/us/developer/hai-nam-trinh/id1139152400](https://apps.apple.com/us/developer/hai-nam-trinh/id1139152400)
+
+_(App Store link for this game will be added here once approved.)_
 
 ---
 
