@@ -44,7 +44,7 @@ The AI follows a prioritized decision-making process to ensure optimal moves:
 4. **Block the opponent’s open three.**  
 5. **Block any opponent’s 4×3 threats.**  
 6. **Block any opponent’s 3×3 threats.**  
-7. **Otherwise**, use a **heuristic or minimax search** to find the best move.
+7. **Otherwise**, use a **Alpha–Beta Search** to find the best move.
 
 ---
 
