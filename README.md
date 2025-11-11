@@ -49,8 +49,14 @@ Challenge yourself anytime, anywhere — no connection required!
 
 ---
 
+## 🚀 Coming Soon
+
+🕒 *Available soon on the App Store!*  
+_(App Store link will be added here once approved)_
+
+---
+
 ### 🔗 Follow & Support
 
 ⭐ Star this project on GitHub if you enjoy it!  
-📩 Feedbacks & contributions are welcome!
-
+📩 Feedback and contributions are always welcome!
