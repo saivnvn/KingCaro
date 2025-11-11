@@ -34,6 +34,20 @@ Over time, it became one of Japan’s favorite board games.
 
 ---
 
+### 🧠 AI Strategy Logic
+
+The AI follows a prioritized decision-making process to ensure optimal moves:
+
+1. **If there’s a winning move (five in a row)** → play immediately.  
+2. **If the opponent has a four** → block it immediately.  
+3. **If the AI can create a four (including a 4×3 threat)** → play it.  
+4. **Block the opponent’s open three.**  
+5. **Block any opponent’s 4×3 threats.**  
+6. **Block any opponent’s 3×3 threats.**  
+7. **Otherwise**, use a **heuristic or minimax search** to find the best move.
+
+---
+
 ## 📸 Screenshots
 
 | ![Screenshot 1](anh1.png) | ![Screenshot 2](anh4.png) | ![Screenshot 3](anh3.png) |
