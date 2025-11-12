@@ -63,10 +63,15 @@ Challenge yourself anytime, anywhere — no connection required!
 
 ---
 
-## 🚀 Coming Soon
+## 🌐 App Store Link
 
-🕒 *Available soon on the App Store!*  
-While waiting for release, you can **visit my developer page on App Store:**  
+🔗 [Download on the App Store](https://apps.apple.com/vn/app/king-caro-gomoku-with-ai/id6755077188)
+
+## 🧩 Keywords
+
+Gomoku, Caro, King Caro, Gomoku Offline, Chess Gomoku, Five in a Row, Caro Game, Board Game, Vua Cờ Caro
+
+**visit my developer page on App Store:**  
 👉 [https://apps.apple.com/us/developer/hai-nam-trinh/id1139152400](https://apps.apple.com/us/developer/hai-nam-trinh/id1139152400)
 
 _(App Store link for this game will be added here once approved.)_
