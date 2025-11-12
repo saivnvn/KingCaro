@@ -71,7 +71,7 @@ Challenge yourself anytime, anywhere — no connection required!
 
 Gomoku, Caro, King Caro, Gomoku Offline, Chess Gomoku, Five in a Row, Caro Game, Board Game, Vua Cờ Caro
 
-## 🌐 visit my developer page on App Store
+## 🌐 Visit my developer page on App Store
 👉 [https://apps.apple.com/us/developer/hai-nam-trinh/id1139152400](https://apps.apple.com/us/developer/hai-nam-trinh/id1139152400)
 
 ---
